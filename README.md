@@ -26,10 +26,22 @@ The **Vehicle Tracking System** is a Qt/C++ application designed for real-time t
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
 ### Example Interface:
-![Screenshot](path/to/screenshot.png)
+  
+
+https://github.com/user-attachments/assets/11a21c6b-7a83-41ff-bcec-4db189107232
+
+
+
+https://github.com/user-attachments/assets/cd75d62a-59de-41e8-81e8-6b744100098c
+
+
+
+https://github.com/user-attachments/assets/eec28755-66d2-4d3f-bc7d-c8d2775797ba
+
+
 
 ---
 
